@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura>
+	<fac category="Informacion">
+		<numfactura lang="en">598323975</numfactura>
+		<startdate>2021-01-11</startdate>
+		<enddate>2021-01-11</enddate>
+		<hora>11:56pm</hora>
+		<nitempresa>844421448</nitempresa>
+		<nombreentidad>Tienda Ropa TR</nombreentidad>
+		<direccionentidad>Cra 567 Nro. 7686</direccionentidad>
+		<departamentoentidad>VALLE DEL CAUCA</departamentoentidad>
+		<municipioentidad>LA UNION</municipioentidad>
+		<nombrepaciente>Santiago Crief Nazar</nombrepaciente>
+		<telefono>3211234567</telefono>
+		<correo>yisusnasa@gmail.com</correo>
+		<direccionpaciente>calle 55 carrera 56</direccionpaciente>
+		<municipiopaciente>CALI</municipiopaciente>
+		<subprecio>50000</subprecio>
+		<iva>6000</iva>
+		<totalvalor>56000</totalvalor>
+		<CUFE>5555567890123567890123456755555</CUFE>
+	</fac>
+</factura>

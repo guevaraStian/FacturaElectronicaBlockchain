@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura>
+	<fac category="Informacion">
+		<numfactura lang="en">232323223</numfactura>
+		<startdate>2021-01-12</startdate>
+		<enddate>2021-01-12</enddate>
+		<hora>10:10pm</hora>
+		<nitempresa>802321321</nitempresa>
+		<nombreentidad>EPS</nombreentidad>
+		<direccionentidad>Cra 12 Nro. 31 A 83</direccionentidad>
+		<departamentoentidad>VALLE DEL CAUCA</departamentoentidad>
+		<municipioentidad>PALMIRA</municipioentidad>
+		<nombrepaciente>Neponuseno Grande Fresco</nombrepaciente>
+		<telefono>3151231234</telefono>
+		<correo>nepogranfre@gmail.com</correo>
+		<direccionpaciente>calle 65 carrera 86 - 21</direccionpaciente>
+		<municipiopaciente>CALI</municipiopaciente>
+		<subprecio>30000</subprecio>
+		<iva>3600</iva>
+		<totalvalor>33600</totalvalor>
+		<CUFE>2224567890123567890123456789222</CUFE>
+	</fac>
+</factura>

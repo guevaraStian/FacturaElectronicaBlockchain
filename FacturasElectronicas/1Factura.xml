@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura>
+	<fac category="Informacion">
+		<numfactura lang="en">131323123</numfactura>
+		<startdate>2021-03-15</startdate>
+		<enddate>2021-03-15</enddate>
+		<hora>15:30pm</hora>
+		<nitempresa>890321111</nitempresa>
+		<nombreentidad>SURI</nombreentidad>
+		<direccionentidad>Cra 63 Nro. 49 A 31. p1 Edificio Camacol</direccionentidad>
+		<departamentoentidad>VALLE DEL CAUCA</departamentoentidad>
+		<municipioentidad>CALI</municipioentidad>
+		<nombrepaciente>Sebastian Guevara Sanchez</nombrepaciente>
+		<telefono>3140004444</telefono>
+		<correo>sebastrabajo96@gmail.com</correo>
+		<direccionpaciente>carrera 5 calle 5 25</direccionpaciente>
+		<municipiopaciente>CALI</municipiopaciente>
+		<subprecio>100000</subprecio>
+		<iva>12000</iva>
+		<totalvalor>112000</totalvalor>
+		<CUFE>1234567890123567890123456789010</CUFE>
+	</fac>
+</factura>

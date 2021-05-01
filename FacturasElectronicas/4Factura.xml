@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura>
+	<fac category="Informacion">
+		<numfactura lang="en">467323984</numfactura>
+		<startdate>2021-01-09</startdate>
+		<enddate>2021-01-09</enddate>
+		<hora>22:30pm</hora>
+		<nitempresa>800021002</nitempresa>
+		<nombreentidad>Centro Comercial CC</nombreentidad>
+		<direccionentidad>Calle 123 Nro. 4 A 4</direccionentidad>
+		<departamentoentidad>VALLE DEL CAUCA</departamentoentidad>
+		<municipioentidad>BOLIVAR</municipioentidad>
+		<nombrepaciente>Jorge Nitales Peludos</nombrepaciente>
+		<telefono>3140004444</telefono>
+		<correo>jornipe@gmail.com</correo>
+		<direccionpaciente>carrera 213 calle 43</direccionpaciente>
+		<municipiopaciente>CALI</municipiopaciente>
+		<subprecio>20000</subprecio>
+		<iva>2400</iva>
+		<totalvalor>22400</totalvalor>
+		<CUFE>9987667890123567890123456777664</CUFE>
+	</fac>
+</factura>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura>
+	<fac category="Informacion">
+		<numfactura lang="en">434343423</numfactura>
+		<startdate>2021-02-22</startdate>
+		<enddate>2021-02-22</enddate>
+		<hora>20:15pm</hora>
+		<nitempresa>800031234</nitempresa>
+		<nombreentidad>IPS</nombreentidad>
+		<direccionentidad>Cra 11 Nro. 33 A 8</direccionentidad>
+		<departamentoentidad>VALLE DEL CAUCA</departamentoentidad>
+		<municipioentidad>TULUA</municipioentidad>
+		<nombrepaciente>Penelope Delgado Pequeño</nombrepaciente>
+		<telefono>3206543344</telefono>
+		<correo>pendelpe@gmail.com</correo>
+		<direccionpaciente>carrera 87 calle 2 1</direccionpaciente>
+		<municipiopaciente>CALI</municipiopaciente>
+		<subprecio>80000</subprecio>
+		<iva>9600</iva>
+		<totalvalor>89600</totalvalor>
+		<CUFE>3333567890123333890123456733333</CUFE>
+	</fac>
+</factura>
